@@ -1,0 +1,14 @@
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\vlcTest.exe.config
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\vlcTest.exe
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\vlcTest.pdb
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.csproj.AssemblyReference.cache
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.Form1.resources
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.Properties.Resources.resources
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.csproj.GenerateResource.cache
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.csproj.CoreCompileInputs.cache
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.csproj.CopyComplete
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.exe
+C:\Users\ZQY\source\repos\vlcTest\vlcTest\obj\Debug\vlcTest.pdb
